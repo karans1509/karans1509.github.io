@@ -191,6 +191,7 @@ main .fa-chevron-down {
 	color: #EB5E28;
 	letter-spacing: 5px;
 	word-spacing: 7.5px;
+	font-size: 2.75rem;
 	/*padding-bottom: 20px;*/
 }
 .content p,.content ul {
@@ -198,6 +199,7 @@ main .fa-chevron-down {
 	opacity: 0;
 	max-width: 800px;
 	margin: 0 auto;
+	font-size: 1.5rem;
 }
 
 .content ul  {
